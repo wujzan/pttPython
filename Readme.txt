@@ -1,5 +1,4 @@
-﻿#吳倬安 508170624
-
+PTT 爬蟲
 
 安裝:
 pip install BeautifulSoup4
